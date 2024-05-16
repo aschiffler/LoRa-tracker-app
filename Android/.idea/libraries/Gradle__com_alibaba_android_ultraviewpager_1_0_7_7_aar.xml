@@ -1,8 +1,9 @@
 <component name="libraryTable">
-  <library name="Gradle: com.alibaba.android:ultraviewpager:1.0.7.7@aar">
+  <library name="Gradle: com.alibaba.android:ultraviewpager:1.0.7.7@aar" external-system-id="GRADLE">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f7a43a82c126e654a5748202f6654255/jetified-ultraviewpager-1.0.7.7/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f7a43a82c126e654a5748202f6654255/jetified-ultraviewpager-1.0.7.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d4ea9193b0c3060f9ff9d6d5296f9624/transformed/jetified-ultraviewpager-1.0.7.7/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d4ea9193b0c3060f9ff9d6d5296f9624/transformed/jetified-ultraviewpager-1.0.7.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d4ea9193b0c3060f9ff9d6d5296f9624/transformed/jetified-ultraviewpager-1.0.7.7/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

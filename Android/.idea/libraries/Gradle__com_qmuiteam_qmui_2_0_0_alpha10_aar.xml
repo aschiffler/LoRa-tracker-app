@@ -1,11 +1,12 @@
 <component name="libraryTable">
-  <library name="Gradle: com.qmuiteam:qmui:2.0.0-alpha10@aar">
+  <library name="Gradle: com.qmuiteam:qmui:2.0.0-alpha10@aar" external-system-id="GRADLE">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/621bc8d570f25d88da50c71e47155ef6/jetified-qmui-2.0.0-alpha10/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d0dd46aa4f4fd3664a08e29e570a7480/transformed/jetified-qmui-2.0.0-alpha10/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/621bc8d570f25d88da50c71e47155ef6/jetified-qmui-2.0.0-alpha10/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/621bc8d570f25d88da50c71e47155ef6/jetified-qmui-2.0.0-alpha10/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d0dd46aa4f4fd3664a08e29e570a7480/transformed/jetified-qmui-2.0.0-alpha10/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d0dd46aa4f4fd3664a08e29e570a7480/transformed/jetified-qmui-2.0.0-alpha10/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d0dd46aa4f4fd3664a08e29e570a7480/transformed/jetified-qmui-2.0.0-alpha10/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.qmuiteam/qmui/2.0.0-alpha10/f42b0e6b0554f482549cf402cbc03042728d794f/qmui-2.0.0-alpha10-javadoc.jar!/" />

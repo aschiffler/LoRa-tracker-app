@@ -1,11 +1,11 @@
 <component name="libraryTable">
-  <library name="Gradle: com.github.mik3y:usb-serial-for-android:3.4.3@aar">
+  <library name="Gradle: com.github.mik3y:usb-serial-for-android:3.4.3@aar" external-system-id="GRADLE">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a540c28db9c0abf38576818c1068d1e6/jetified-usb-serial-for-android-3.4.3/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/97f5b3d5102d248170a284e7cdecfd2e/transformed/jetified-usb-serial-for-android-3.4.3/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a540c28db9c0abf38576818c1068d1e6/jetified-usb-serial-for-android-3.4.3/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a540c28db9c0abf38576818c1068d1e6/jetified-usb-serial-for-android-3.4.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/97f5b3d5102d248170a284e7cdecfd2e/transformed/jetified-usb-serial-for-android-3.4.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/97f5b3d5102d248170a284e7cdecfd2e/transformed/jetified-usb-serial-for-android-3.4.3/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

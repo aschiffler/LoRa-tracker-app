@@ -1,30 +1,23 @@
 <resources>
-    <string name="app_name">DRAGINO-LA66</string>
+    <string name="app_name">LoRa Tracker</string>
     <string name="action_settings">Settings</string>
     <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
 
     <string name="hello_first_fragment">Hello first fragment</string>
-    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 
 
-
-    <string name="home">主页</string>
     <string name="Device_Info">Device Info</string>
     <string name="Config">Config</string>
     <string name="Log">Log</string>
-    <string name="home_title">DRAGINO_LA66APP</string>
-    <string name="Disconnect">"Disconnect "</string>
+    <string name="home_title">LoRa Tracker</string>
     <string name="language">中文</string>
     <string name="device_manager">设备管理</string>
     <string name="no_connected">No Connected</string>
     <string name="on_connected">connected</string>
     <string name="Deveui">Deveui</string>
     <string name="text_switch">设置开关</string>
-    <string name="text_node">节点模式</string>
     <string name="text_interrupt">中断模式</string>
     <string name="text_tdc_time">TDC时间选择</string>
     <string name="txt_zdytime">手动输入</string>
@@ -33,20 +26,16 @@
     <string name="text_at_instructions">AT指令（点击选择）</string>
     <string name="text_at_corresponding">对应指令：</string>
     <string name="text_code">日志接收编码</string>
-    <string name="text_suspend">暂停接收</string>
     <string name="text_code_send">Transmission code selection</string>
     <string name="text_savelog">SaveLog</string>
     <string name="text_clearlog">Clear Log</string>
     <string name="text_noconnect">未连接</string>
-    <string name="pattern">Adaptive Data Rate setting</string>
     <string name="pattern1">Adaptive Data Rate setting</string>
     <string name="pattern2">confirmation mode</string>
     <string name="pattern3">Network Join Mode</string>
     <string name="restart">是否重启单片机?</string>
     <string name="NodeMode">节点模式选择</string>
     <string name="InterruptMode">中断模式</string>
-    <string name="ABP">ABP</string>
-    <string name="OTAA">OTAA</string>
     <string name="Disable">Disable</string>
     <string name="falling_or_rising">falling or rising</string>
     <string name="falling">falling</string>
@@ -71,7 +60,6 @@
     <string name="save">保存Log</string>
     <string name="issave">是否保存Log</string>
     <string name="isclearlog">whether clear Log</string>
-    <string name="break_off">断开连接</string>
     <string name="onlink">已连接该设备</string>
     <string name="unlink">是否断开该设备</string>
     <string name="work_mode">"work mode "</string>

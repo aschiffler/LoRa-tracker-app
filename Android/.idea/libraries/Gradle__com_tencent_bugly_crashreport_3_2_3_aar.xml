@@ -1,8 +1,9 @@
 <component name="libraryTable">
-  <library name="Gradle: com.tencent.bugly:crashreport:3.2.3@aar">
+  <library name="Gradle: com.tencent.bugly:crashreport:3.2.3@aar" external-system-id="GRADLE">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cdb9474edfbc6ed63459d52abb282ae5/jetified-crashreport-3.2.3/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cdb9474edfbc6ed63459d52abb282ae5/jetified-crashreport-3.2.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e9e4d1c7931e3063c419ee4cffde9c32/transformed/jetified-crashreport-3.2.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e9e4d1c7931e3063c419ee4cffde9c32/transformed/jetified-crashreport-3.2.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e9e4d1c7931e3063c419ee4cffde9c32/transformed/jetified-crashreport-3.2.3/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.bugly/crashreport/3.2.3/c12f6ee59fc34f0a12797a544c93bc4aad7a7192/crashreport-3.2.3-javadoc.jar!/" />
