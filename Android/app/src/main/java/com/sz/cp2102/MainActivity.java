@@ -314,7 +314,7 @@ public class MainActivity extends Activity implements SerialInputOutputManager.L
         }
 
         time1();
-        time2();
+//        time2();
     }
 
     @Override
@@ -464,12 +464,12 @@ public class MainActivity extends Activity implements SerialInputOutputManager.L
         timer2.schedule(new TimerTask() {
             @Override
             public void run() {
-                try {
-                    checkConnect();
+//                try {
+                    //checkConnect();
 //                    new readThread().start();
-                } catch (IOException e) {
-                    e.printStackTrace();
-                }
+//                } catch (IOException e) {
+ //                   e.printStackTrace();
+//                }
             }
         }, 1000 * 1, 1000 * 30);
     }
